@@ -22,6 +22,9 @@ Start the backend server:
 
 ```sh
 npm run server
+
+
+
 ## Frontend Setup
 Navigate to the frontend directory:
 
